@@ -27,11 +27,11 @@ I've tried my hardest to make scripts easy and usefull for the community so peop
 
 <a href="http://www.github.com/thecoloryellow"><img src="https://github-readme-stats.vercel.app/api?username=xk0brax&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="xk0brax's GitHub stats" /></a>
 
-<a href="http://www.github.com/thecoloryellow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xk0brax&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/thecoloryellow"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thecoloryellow&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/thecoloryellow"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=xk0brax&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/thecoloryellow"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=thecoloryellow&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/thecoloryellow" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xk0brax&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/thecoloryellow" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoloryellow&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
