@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yellow
 ==============================================================================================================================
 
-I'm a Stage Lighting Designer and A idiot who tries to code!
+I'm a Stage Lighting Designer who tries to code!
 ------------------------------------------------------------
 
 I've tried my hardest to make scripts easy and usefull for the community so people can get what they want quicker with my scripts.
