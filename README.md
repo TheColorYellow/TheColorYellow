@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Stage Lighting Designer and A idiot who tries to code!
 ------------------------------------------------------------
 
-I've tried my hardest to make scripts easy and usefull for the comunity so people can get what they want quicker with my script's.
+I've tried my hardest to make scripts easy and usefull for the community so people can get what they want quicker with my scripts.
 
 * 🌍  I'm based in Australia
 * 🧠  I'm learning Python, Lua, SH and HTML
